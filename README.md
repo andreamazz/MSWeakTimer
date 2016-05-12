@@ -1,6 +1,8 @@
 MSWeakTimer
 ===========
 
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 ## Description
 
 Thread-safe `NSTimer` drop-in alternative that doesn't retain the target and supports being used with `GCD` queues.
